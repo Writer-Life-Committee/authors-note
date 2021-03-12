@@ -1,0 +1,59 @@
+find_header: checking for libxml/tree.h in /Users/mitsuba/myblog/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.1-x86_64-darwin/ext/nokogiri/include/libxml2... -------------------- yes
+
+"clang -fdeclspec -o conftest -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/x86_64-darwin18 -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/ruby/backward -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0 -I. -I/Users/mitsuba/.rbenv/versions/3.0.0/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT    -O3 -Wno-error=shorten-64-to-32  -fno-common -pipe -std=c99 conftest.c  -L. -L/Users/mitsuba/.rbenv/versions/3.0.0/lib -L. -L/Users/mitsuba/.rbenv/versions/3.0.0/lib  -fstack-protector-strong -L/usr/local/lib     -lruby.3.0   "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+
+"clang -E -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/x86_64-darwin18 -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/ruby/backward -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0 -I. -I/Users/mitsuba/.rbenv/versions/3.0.0/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT    -O3 -Wno-error=shorten-64-to-32  -fno-common -pipe -std=c99  conftest.c -o conftest.i"
+conftest.c:3:10: fatal error: 'libxml/tree.h' file not found
+#include <libxml/tree.h>
+         ^~~~~~~~~~~~~~~
+1 error generated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <libxml/tree.h>
+/* end */
+
+"clang -E -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/x86_64-darwin18 -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/ruby/backward -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0 -I. -I/Users/mitsuba/.rbenv/versions/3.0.0/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT    -O3 -Wno-error=shorten-64-to-32  -fno-common -pipe -std=c99 -I/Users/mitsuba/myblog/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.1-x86_64-darwin/ext/nokogiri/include/libxml2 conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <libxml/tree.h>
+/* end */
+
+--------------------
+
+find_header: checking for nokogiri.h in /Users/mitsuba/myblog/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.1-x86_64-darwin/ext/nokogiri... -------------------- yes
+
+"clang -E -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/x86_64-darwin18 -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/ruby/backward -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0 -I. -I/Users/mitsuba/myblog/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.1-x86_64-darwin/ext/nokogiri/include/libxml2 -I/Users/mitsuba/.rbenv/versions/3.0.0/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT    -O3 -Wno-error=shorten-64-to-32  -fno-common -pipe -std=c99  conftest.c -o conftest.i"
+conftest.c:3:10: fatal error: 'nokogiri.h' file not found
+#include <nokogiri.h>
+         ^~~~~~~~~~~~
+1 error generated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <nokogiri.h>
+/* end */
+
+"clang -E -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/x86_64-darwin18 -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/ruby/backward -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0 -I. -I/Users/mitsuba/myblog/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.1-x86_64-darwin/ext/nokogiri/include/libxml2 -I/Users/mitsuba/.rbenv/versions/3.0.0/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT    -O3 -Wno-error=shorten-64-to-32  -fno-common -pipe -std=c99 -I/Users/mitsuba/myblog/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.1-x86_64-darwin/ext/nokogiri conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <nokogiri.h>
+/* end */
+
+--------------------
+

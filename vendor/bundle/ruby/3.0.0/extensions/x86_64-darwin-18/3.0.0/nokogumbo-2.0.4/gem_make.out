@@ -1,0 +1,47 @@
+current directory: /Users/mitsuba/myblog/vendor/bundle/ruby/3.0.0/gems/nokogumbo-2.0.4/ext/nokogumbo
+/Users/mitsuba/.rbenv/versions/3.0.0/bin/ruby -I /Users/mitsuba/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20210305-35884-dfby7k.rb extconf.rb
+checking for libxml/tree.h in /Users/mitsuba/myblog/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.1-x86_64-darwin/ext/nokogiri/include/libxml2... yes
+checking for nokogiri.h in /Users/mitsuba/myblog/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.1-x86_64-darwin/ext/nokogiri... yes
+creating Makefile
+
+current directory: /Users/mitsuba/myblog/vendor/bundle/ruby/3.0.0/gems/nokogumbo-2.0.4/ext/nokogumbo
+make "DESTDIR=" clean
+
+current directory: /Users/mitsuba/myblog/vendor/bundle/ruby/3.0.0/gems/nokogumbo-2.0.4/ext/nokogumbo
+make "DESTDIR="
+compiling nokogumbo.c
+nokogumbo.c:492:27: warning: 'rb_cData' is deprecated: by: rb_cObject.  Will be removed in 3.1. [-Wdeprecated-declarations]
+  return Data_Wrap_Struct(rb_cData, parse_args_mark, RUBY_NEVER_FREE, args);
+                          ^
+/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/ruby/internal/core/rdata.h:173:18: note: expanded from macro 'rb_cData'
+#define rb_cData rb_cData()
+                 ^
+/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/ruby/internal/core/rdata.h:166:1: note: 'rb_cData' has been explicitly marked deprecated here
+RBIMPL_ATTR_DEPRECATED(("by: rb_cObject.  Will be removed in 3.1."))
+^
+/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/ruby/internal/attr/deprecated.h:32:53: note: expanded from macro 'RBIMPL_ATTR_DEPRECATED'
+# define RBIMPL_ATTR_DEPRECATED(msg) __attribute__((__deprecated__ msg))
+                                                    ^
+1 warning generated.
+compiling ./../../gumbo-parser/src/ascii.c
+compiling ./../../gumbo-parser/src/attribute.c
+compiling ./../../gumbo-parser/src/char_ref.c
+compiling ./../../gumbo-parser/src/error.c
+compiling ./../../gumbo-parser/src/foreign_attrs.c
+compiling ./../../gumbo-parser/src/parser.c
+compiling ./../../gumbo-parser/src/string_buffer.c
+compiling ./../../gumbo-parser/src/string_piece.c
+compiling ./../../gumbo-parser/src/svg_attrs.c
+compiling ./../../gumbo-parser/src/svg_tags.c
+compiling ./../../gumbo-parser/src/tag.c
+compiling ./../../gumbo-parser/src/tag_lookup.c
+compiling ./../../gumbo-parser/src/token_buffer.c
+compiling ./../../gumbo-parser/src/tokenizer.c
+compiling ./../../gumbo-parser/src/utf8.c
+compiling ./../../gumbo-parser/src/util.c
+compiling ./../../gumbo-parser/src/vector.c
+linking shared-object nokogumbo/nokogumbo.bundle
+
+current directory: /Users/mitsuba/myblog/vendor/bundle/ruby/3.0.0/gems/nokogumbo-2.0.4/ext/nokogumbo
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 nokogumbo.bundle ./.gem.20210305-35884-xlvjqq/nokogumbo

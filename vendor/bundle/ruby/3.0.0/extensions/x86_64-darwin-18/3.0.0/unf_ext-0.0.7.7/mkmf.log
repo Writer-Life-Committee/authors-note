@@ -1,0 +1,35 @@
+have_library: checking for -lstdc++... -------------------- yes
+
+"clang -fdeclspec -o conftest -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/x86_64-darwin18 -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/ruby/backward -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0 -I. -I/Users/mitsuba/.rbenv/versions/3.0.0/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT    -O3 -Wno-error=shorten-64-to-32  -fno-common -pipe conftest.c  -L. -L/Users/mitsuba/.rbenv/versions/3.0.0/lib -L. -L/Users/mitsuba/.rbenv/versions/3.0.0/lib  -fstack-protector-strong -L/usr/local/lib     -lruby.3.0   "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+
+"clang -fdeclspec -o conftest -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/x86_64-darwin18 -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0/ruby/backward -I/Users/mitsuba/.rbenv/versions/3.0.0/include/ruby-3.0.0 -I. -I/Users/mitsuba/.rbenv/versions/3.0.0/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT    -O3 -Wno-error=shorten-64-to-32  -fno-common -pipe conftest.c  -L. -L/Users/mitsuba/.rbenv/versions/3.0.0/lib -L. -L/Users/mitsuba/.rbenv/versions/3.0.0/lib  -fstack-protector-strong -L/usr/local/lib     -lruby.3.0 -lstdc++   "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: 
+15: int t(void) { ; return 0; }
+/* end */
+
+--------------------
+
