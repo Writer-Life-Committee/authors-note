@@ -1,5 +1,6 @@
 title: 作家の手帖
 description: 同人誌　特集「原稿料」
-show_downloads: true
-google_analytics:
+auto: true
+server: true
+markdown: kramdown
 theme: jekyll-theme-merlot
