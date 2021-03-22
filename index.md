@@ -2,54 +2,31 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+これは同人誌「特集：原稿料」のページです
 
-[Link to another page](./another-page.html).
+# この企画はなに
 
-There should be whitespace between paragraphs.
+ここに文章が入りますね
+ **太字**, _イタリック_, or ~~取り消し線~~.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[テスト記事へのリンク](./posts/2021-03-05-test.html)
+Markdown方式で書いてね
 
-# Header 1
+## かっこいい引用
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> すべての文化集団は，独自の言語，文字，書記システムを持つ．それゆえ，個々の書記システムをサイバースペースに移転することは，文化的資産の継承という意味で，情報通信技術にとって非常に重要な責務といえよう．[日本語組版処理の要件（日本語版）](https://www.w3.org/TR/jlreq/)
 
-## Header 2
+### ３行でいうと…？
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+*   やまあり
+*   おちあり
+*   いみあり
 
-### Header 3
+1.  いちばん
+2.  にばん
+3.  さんばん
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
+### 表も書ける
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -58,25 +35,11 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+### 罫線を引く
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
+### 入れ子構造もできる
 
 - level 1 item
   - level 2 item
@@ -92,16 +55,16 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
+### 絵も貼れる（小）   
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
+### 絵も貼れる（大）
+   
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+### HTML syntaxを使った書き方
 
 <dl>
 <dt>Name</dt>
@@ -113,11 +76,3 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
