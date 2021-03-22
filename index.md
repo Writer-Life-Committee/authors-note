@@ -76,3 +76,13 @@ Markdown方式で書いてね
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X2FVX75SD3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X2FVX75SD3');
+</script>
