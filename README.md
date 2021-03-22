@@ -1,251 +1,109 @@
-# 「作家の手帖（特集：原稿料）」企画書ワーキングドラフト
+# The Merlot theme
 
-## はじめに
-### この文書について
-同人誌「特集：原稿料」と呼ばれていた新企画を説明します。この文書はまだワーキングドラフトです。話が進むにつれて、編集長（笠井・小澤）が更新していきます。
+[![Build Status](https://travis-ci.org/pages-themes/merlot.svg?branch=master)](https://travis-ci.org/pages-themes/merlot) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-merlot.svg)](https://badge.fury.io/rb/jekyll-theme-merlot)
 
-## 概要
-### 書誌情報
-「作家の手帖　特集：原稿料」（「10日間で作文を上手にする方法」シリーズ1）（編集：笠井康平、小澤みゆき、2021、文筆生活向上委員会）
-Author's note issue : a fee. Kouhei Kasai, Miyuki Ozawa ed. How to write a good in 10 days. 2021. https://github.com/Writer-Life-Committee/authors-note, 
+*Merlot is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/merlot), or even [use it today](#usage).*
 
-### 企画骨子
-- 1.オープンテキストリポジトリ
-    - 原稿をはじめ、諸書類はGitHubでバージョン管理する
-    - 有料購読者には、完成稿の保管場所、勉強会、非公開Slackの招待状が届く
+![Thumbnail of Merlot](thumbnail.png)
 
-- 2.積立方式で少しずつ完成するマガジン
-    - 初めに目次案を公表して、著者・読者を募る
-    - きちんと報酬を払っても利益が出る原価設計
-    - 得られた利益は、次の原稿に投資する
+## Usage
 
-- 3.セミ・パブリックなオンライン勉強会
-    - もの書きが静かに話せる集まりを開く
-    - 著作や研究、主宰紙、新企画を宣伝するショートピッチも
+To use the Merlot theme:
 
-### ポリシー
-「自分ひとりの部屋」の作り方を知り、災害につよい「家」としての作家になって、つらい時代が訪れても、どうにかやっていく自信をつける。
+1. Add the following to your site's `_config.yml`:
 
-### 想定読者
-働き、学び、遊びながら、読み・書き続けたいすべてのひと
+    ```yml
+    theme: jekyll-theme-merlot
+    ```
 
-## 内容
-### 狙い
-- 1.ひとつの原稿が世に出るまでをつぶさに追う
-    - 文章表現の工程を広くカバーする目次・構成
-    - 企画から選考、契約、取材、執筆、編集、校閲、印刷、広告、販売まで
+2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
-- 2.「出版」の再-透明化
-    - 制作・運営・管理の実例をなるべく開示する
-    - 進行管理、原稿整理、収支予算、契約手続、効果測定…etc.
+    ```ruby
+    gem "github-pages", group: :jekyll_plugins
+    ```
 
-- 3.Web of How Things used to be
-    - 出版史に埋もれた、および（または）業界では暗黙の知識を掘り起こしてまとめる
-    - 種本は、例えば『原稿料の研究』『作家の原稿料』『出版人の月刊誌・エディター』
+## Customizing
 
-### ヘッドコピー（案）
-じぶんの「つづき」を書こう。
+### Configuration variables
 
-### 目次・構成案
-1.  企画趣旨（★）
-2.  参加方法
-3.  創業
-4.  原稿料（★）
-5.  企画
-6.  契約
-7.  選考：基準／システム（★）
-8.  執筆：取材調査／内容／道具／倫理（★）
-9.  編集権限：管理／編集／掲載／出版／著作者隣接権／派生物
-10.  校正：校閲・校正／品質管理／検閲／禁止表現／原文同定／注釈
-11.  時間管理術
-12.  デザイン・組版・DTP
-13.  造本・装幀
-14.  流通
-15.  パブリシティ：広告／宣伝／販促／PR／EC／効果測定（★）
-16.  財務・会計
+Merlot will respect the following variables, if set in your site's `_config.yml`:
 
-（★）：準備号に記事掲載したい項目です。
+```yml
+title: [The title of your site]
+description: [A short description of your site's purpose]
+```
 
-## チーム編成
-### 編集長
-笠井康平、小澤みゆき
+Additionally, you may choose to set the following optional variables:
 
-### スタッフ
-依頼・募集により決定
+```yml
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
+```
 
-## 執筆仕様と報酬
-### 文字単価
-- 執筆料の文字単価は1文字5円とします。
-- 400字詰め原稿用紙1枚あたり2,500円です。
+### Stylesheet
 
-### 報酬の考え方
-- 執筆料は、25,000円を基本報酬とします。
-- 業務委託契約を締結したのち、基本報酬の40%（10,000円）を着手金として支払います。
-- 残る報酬は、完成原稿が公表された翌月または翌々月に支払います。 
-- 売上好調の場合、時期を区切って収支を決算した際に、追加報酬を支払えるかもしれません（払えないかもしれません）。
+If you'd like to add your own custom styles:
 
-### 分量
-- 4,000字を上限とします。
-- 文字単価の算定には、派生相当字数1,000字を含みます。
-- リテイク、著者略歴、広報協力など、完成稿に含まれないメタテキスト、パラテキストの執筆に係る対価です。
+1. Create a file called `/assets/css/style.scss` in your site
+2. Add the following content to the top of the file, exactly as shown:
+    ```scss
+    ---
+    ---
 
-### 請求・支払
-- 報酬は2021年8月中に支払います。同年7月中に請求書を発行してください。
+    @import "{{ site.theme }}";
+    ```
+3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
 
-## ライセンス表示（著作権の帰属）
-- Githubオープンリポジトリに掲載された文書のライセンスは、CC-BY-ND-NC 4.0（表示・非営利・改編禁止 4.0 国際）とします。
-- 完成稿となる著作物の著作権その他の知的財産権は、著者に帰属します。著者は、業務委託契約書に定める範囲で、自身の著作物の利用権限を編集部に許諾するものとします。
+*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
 
-## 造本
-### 本体
-#### 版型
-スマートフォン/PC
+### Layouts
 
-#### 頁数
-1GB（ギガバイト）以下（Github公式による推奨）
+If you'd like to change the theme's HTML layout:
 
-#### 体裁
-装幀：プレーンテキスト
-製本：HTML+CSS
-函入：パブリックリポジトリ
+1. [Copy the original template](https://github.com/pages-themes/merlot/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+2. Create a file called `/_layouts/default.html` in your site
+3. Paste the default layout content copied in the first step
+4. Customize the layout as you'd like
 
-#### 組方
-書字方向：横
-字サイズ：ブラウザ設定による
-行数：ブラウザ設定による
-段組：ブラウザ設定による
+### Overriding GitHub-generated URLs
 
-#### 組版・製本方式
-本文：Markdown
-図版：Adobe CCで編集可能なファイルフォーマット
-写真：同上
-別刷：PDF
+Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
 
-#### 印刷会社・製本会社
-印刷：Github
-製本：ご家庭の印刷機・ホチキス
-発送：world wide web
+1. Look at [the template source](https://github.com/pages-themes/merlot/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
+2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
+    ```yml
+    github:
+      zip_url: http://example.com/download.zip
+      another_url: another value
+    ```
+3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
 
-### はがき
-#### 版型
-A5（210×148ｍｍ）見開き
+*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
 
-#### 頁数
-4ページ（表表紙・本文右・本文左・裏表紙）
+For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
 
-#### 体裁
-装幀：未定
-製本：2つ折り
-函入：洋1封筒
+## Roadmap
 
-#### 組方
-書字方向：相談
-字サイズ：相談
-行数：相談
-段組：相談
+See the [open issues](https://github.com/pages-themes/merlot/issues) for a list of proposed features (and known issues).
 
-#### 組版・製本方式
-本文：相談
-図版：相談
-写真：相談
-別刷：なし
+## Project philosophy
 
-#### 印刷会社・製本会社
-印刷：未定
-製本：印刷会社に依頼
-発送：印刷会社に依頼
+The Merlot theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
 
-## 価格
-### 定価
-2,200円（送料・税込）
-※インターネット通信料は含みません。
+## Contributing
 
-### 目標部数
-150,000PV・300部
+Interested in contributing to Merlot? We'd love your help. Merlot is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
 
-### 出版条件
-業務委託契約書および（または）執筆者規約に定める。
+### Previewing the theme locally
 
-### 備考
-ゆるふわ進行
+If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
-## スケジュール
-### 着想
-2020/11/12
-笠井康平がフレーズを思いついた日です。
-「特集：原稿料」で同人誌作れそう
-https://twitter.com/kasaikouhei/status/1326734980077154304
+1. Clone down the theme's repository (`git clone https://github.com/pages-themes/merlot`)
+2. `cd` into the theme's directory
+3. Run `script/bootstrap` to install the necessary dependencies
+4. Run `bundle exec jekyll serve` to start the preview server
+5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
 
-### 企画
-2021/2/16
-- 小澤みゆきがGoogleドキュメント「【企画書】同人誌「特集・原稿料」」を作成した日です。
+### Running tests
 
-### 情報解禁
-2021/3/27
-- この文書がGithubに掲載されていると、少なからぬ数のひとが知った日です。
-
-### 依頼・募集
-2021/3/28-2021/4/10
-- 第1弾の執筆者および、制作スタッフを募集します。
-- 編集長のいずれかから依頼の連絡を差し上げる方もいます。
-- 執筆者には、業務委託契約書のオンライン締結リクエストを送ります。締結完了後に、着手金を支払います。
-
-### 草稿
-2021/4/11-2021/5/1
-- 執筆者の方それぞれに、原稿提出用のGoogleドキュメントのURLを伝えます。
-- 執筆はお好みの端末・ツールで行っていただいてかまいません。
-- 草稿はGithubオープンリポジトリに掲載されます。
-
-### 編集
-2021/5/2-2021/5/15
-- 担当編集が、それぞれの草稿にGoogleドキュメントでコメント・修正提案を入力していきます。
-- 有料チケットの購入者は、編集稿に付されたコメント・修正提案を閲覧できます（執筆者が同意した場合のみ）。
-
-### 初稿
-2021/5/16-5/29
-- 編集稿のコメント・修正提案を参考に、執筆者の方は、Googleドキュメントで改稿してください。
-- 改稿されたテキストを初稿と呼びます。初稿はGithubオープンリポジトリに掲載されます。
-
-### 校閲・校正
-2021/5/31-2021/6/27
-- 全原稿の編集完了後、校正者に作業依頼します。
-- 校正を担当する方は、Googleドキュメントで赤入れを行ってください。
-- 執筆者は、校閲・校正を終えた原稿を読み、赤入れの反映/拒否を選んでください。
-- 執筆者が赤入れの採否を済ませたテキストを完成稿と呼びます。完成稿は、Githubオープンリポジトリに掲載されます。
-
-### 入稿
-2021/6/28-2021/7/11
-- すべての完成稿がGithubオープンリポジトリに掲載された日を校了日とします。
-- 編集部は、完成稿をひとつにまとめたepubおよびPDFを作成し、Google Driveに限定公開します。epubおよびPDFは、有料チケット購入者だけが閲覧できます。
-- 全原稿の校了後、執筆者は遅滞なく請求書を発行してください（ただちに、ではなくてかまいませんが、8月中に支払完了とします）。
-
-### 刊行
-2021/7/12
-- 有料チケットの購入者に、はがき（完成原稿の保管先ご案内 兼 勉強会の招待状）を郵送します。
-
-### 販促
-2021/7/12-2021/7/31
-- 勉強会を1回程度、開催します。
-- 読書会、ショートピッチ、企画会議を兼ねる予定です。
-- 勉強会は、オンライン配信しますが、公開されません。
-- 有料チケットの購入者は、追加費用なしで勉強会に参加できます。
-- 勉強会の一般観覧チケットを販売することがあります。
-
-### 清算
-2021/8/1-2021/8/31
-- 原稿料をはじめとする諸経費を支払います。
-
-## 終わりに
-### 原稿料とは何か
-- その原稿が完成するまでに生じる一連の作業に対する対価をいいます。執筆作業のほかにも、多くの工程があります。
-
-- たとえば、以下が含まれると考えます。
-    - 執筆料：取材、調査、執筆、改稿、打合せその他の事務作業の対価
-    - 編集料：企画、依頼、査読、掲載判断、助言・相談、打合せその他の作業の対価
-    - 校正料：誤字・脱字、表記ゆれ、誤記・誤用、体裁その他の校正および、事実確認、論理考証、不快語・差別語などのリスク表現の検出その他の校閲の対価
-    - デザイン料：組版、装幀、造本、色指定、文字指定などのデザイン作業の対価
-    - （広義の）印刷オペレーション：Githubリポジトリ管理その他の技術サポートの対価
-    - その他制作費：進行管理、原稿整理、連絡、予定調整、契約事務などの対価
-
-### 参考
-> すべての文化集団は，独自の言語，文字，書記システムを持つ．それゆえ，個々の書記システムをサイバースペースに移転することは，文化的資産の継承という意味で，情報通信技術にとって非常に重要な責務といえよう．[日本語組版処理の要件（日本語版）](https://www.w3.org/TR/jlreq/)
+The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
