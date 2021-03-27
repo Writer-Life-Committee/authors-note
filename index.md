@@ -11,7 +11,8 @@ layout: default
 
 [テスト記事へのリンク](another-page.html)
 Markdown方式で書いてね
-[postsディレクトリ記事内へのリンク](./posts/2021-03-27-test.md)
+
+[postsディレクトリ記事内へのリンク](./posts/2021-03-27-test.html)
 
 ## かっこいい引用
 
