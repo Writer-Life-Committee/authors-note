@@ -9,7 +9,7 @@ layout: default
 ここに文章が入りますね
  **太字**, _イタリック_, or ~~取り消し線~~.
 
-[テスト記事へのリンク](./posts/another-page.html)
+[テスト記事へのリンク](./_posts/another-page.html)
 Markdown方式で書いてね
 
 ## かっこいい引用
