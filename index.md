@@ -40,5 +40,7 @@ layout: default
 
 # お問い合わせ
 [FAQ](./faq.md)はこちらをごらんください。
+
 または、以下編集長あてのメールアドレスまでお問い合わせください。
-writer.life.committee@gmail.com
+
+writer.life.committee[at]gmail.com
