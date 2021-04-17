@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "ja_JP" }}" prefix="og: http://ogp.me/ns#">
+<html lang="{{ site.lang | default: "ja_JP" }}">
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,6 +9,12 @@
     <link rel="stylesheet" href="{{ '/assets/css/mobile.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)">
     <link rel="stylesheet" href="{{ '/assets/css/non-screen.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)">
     
+    <meta name="twitter:card" content="{{ twitter_card }}">
+    <meta name="twitter:title" content="{{ twitter_title }}">
+    <meta name="twitter:url" content="{{ site.baseurl }}{{ page.url }}">
+    <meta name="twitter:description" content="{{ twitter_description }}">
+    <meta name="twitter:image:src" content="{{ twitter_image }}">
+
     <script src="{{ '/assets/js/modernizr.js' | relative_url }}"></script>
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/headsmart.min.js' | relative_url }}"></script>
