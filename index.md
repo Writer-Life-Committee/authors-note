@@ -5,7 +5,7 @@ layout: default
 # 作家の手帖
 本ウェブサイトは「作家の手帖」（同人誌「特集：原稿料」と呼ばれていたもの）の特設サイトです。
 
-# 企画概要
+# 概要
 同人誌「特集：原稿料」という仮称で温めていた企画を、「作家の手帖」と題して始めることになりました。編集長は[笠井康平](https://twitter.com/kasaikouhei)・[小澤みゆき](https://twitter.com/miyayuki777)が務めます。
 
 ## 特徴
@@ -17,7 +17,7 @@ layout: default
 4月18日に情報解禁され、8月1日に準備号の刊行を目指します。準備号には5件ほどの記事を掲載する予定です。その後、8月22日には勉強会を行います。先輩的文献の紹介、ゲスト登壇者（4名予定）をお招きしたトーク、執筆者（5名予定）に自作を語ってもらう読書会を行おうと計画しています。
 
 # 参加希望の方へ
-企画書をお読みいただいた上で、本プロジェクトに執筆、登壇、制作等で参加を希望なさる方は、[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSddK7-cYI9zzO6wMjTwGqHf9dcVSErruk5bslFF4HAC5QGtbA/viewform)から応募をお願いします。
+[企画書](https://github.com/Writer-Life-Committee/authors-note/blob/main/README.md)をお読みいただいた上で、本プロジェクトに執筆、登壇、制作等で参加を希望なさる方は、[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSddK7-cYI9zzO6wMjTwGqHf9dcVSErruk5bslFF4HAC5QGtbA/viewform)から応募をお願いします。
 
 # 購読希望の方へ
 [STORES](https://authors-note.stores.jp/)では、最終稿の入手と勉強会の視聴（アーカイヴを含む）ができる参加チケットを販売しています。購入すると、編集／読者コミュニティのDiscordへの招待や、オンラインイベントの視聴もできます（3,000円）。また、8月に実施予定のイベントでのショートスピーチ参加券付きのチケットもあります（4,000円）。
