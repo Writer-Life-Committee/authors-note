@@ -1,5 +1,13 @@
 title: 作家の手帖
 description: じぶんの「つづき」を書こう。
 show_downloads: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/images/main.jpeg
+        height: 630
+        width: 1200
 google_analytics: G-X2FVX75SD3
 theme: jekyll-theme-merlot
