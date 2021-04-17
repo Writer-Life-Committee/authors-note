@@ -9,29 +9,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/mobile.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)">
     <link rel="stylesheet" href="{{ '/assets/css/non-screen.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)">
     
-    {% assign twitter_description = page.description | default: page.excerpt | default: site.description %}
-{% if twitter_description %}
-  {% assign twitter_description = twitter_description | markdownify | strip_html | strip_newlines | escape_once %}
-{% endif %}
-{% if page.title %}
-  {% assign twitter_title = page.title | append: " - " | append: site.title %}
-{% else %}
-  {% assign twitter_title = site.title %}
-{% endif %}
-{% if page.image %}
-  {% assign twitter_image = site.baseurl | append: page.image %}
-  {% assign twitter_card = "summary_large_image" %}
-{% else %}
-  {% assign twitter_image = site.baseurl | append: "/favicon.png" %}
-  {% assign twitter_card = "summary" %}
-{% endif %}
-
-    <meta name="twitter:card" content="{{ twitter_card }}">
-    <meta name="twitter:title" content="{{ twitter_title }}">
-    <meta name="twitter:url" content="{{ site.baseurl }}{{ page.url }}">
-    <meta name="twitter:description" content="{{ twitter_description }}">
-    <meta name="twitter:image:src" content="{{ twitter_image }}">
-
     <script src="{{ '/assets/js/modernizr.js' | relative_url }}"></script>
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/headsmart.min.js' | relative_url }}"></script>
