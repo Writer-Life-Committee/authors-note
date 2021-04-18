@@ -13,10 +13,10 @@ layout: default
 
 本サイトには、「作家の手帖」プロジェクトの成果物（※最終校をのぞく）が掲載されていきます。Github Pagesという仕組みを用いて、Githubに掲載した原稿がそのまま記事になるようになっています。
 
-これまで、笠井康平は数万字に及ぶプレ-テキスト（企画書やリーガル文書など）を執筆し、小澤みゆきはインフラストラクチャ（Github、STORES、Discordなど）を整備してきました。
+これまで、笠井康平は数万字に及ぶプレ-テキスト（企画書、リーガル文書など）を執筆し、小澤みゆきはインフラストラクチャ（Github、Discord、STORESなど）を整備してきました。
 
 ## スケジュール
-4月18日に情報解禁され、8月1日に準備号の刊行を目指します。準備号には6作ほどの記事を掲載する予定です。その後、8月22日には勉強会を行います。先輩的文献の紹介、ゲスト登壇者（4名予定）をお招きしたトーク、執筆者（4名予定）に自作を語ってもらう読書会を行おうと計画しています。
+4月18日に情報解禁され、8月1日に準備号の刊行を目指します。準備号には6作ほどの記事を掲載する予定です。その後、8月22日には勉強会を行います（[Googleカレンダーに予定を登録](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2gyYXNwZWxpdnNwZzEwOXNmdTVuZmRjajAgd3JpdGVyLmxpZmUuY29tbWl0dGVlQG0&tmsrc=writer.life.committee%40gmail.com)）。先輩的文献の紹介、ゲスト登壇者（4名予定）をお招きしたトーク、執筆者（4名予定）に自作を語ってもらう読書会を行おうと計画しています。
 
 # 参加希望の方へ
 [企画書](https://github.com/Writer-Life-Committee/authors-note/blob/main/README.md)をお読みいただいた上で、本プロジェクトに執筆、登壇、制作等で参加を希望なさる方は、[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSddK7-cYI9zzO6wMjTwGqHf9dcVSErruk5bslFF4HAC5QGtbA/viewform)から応募をお願いします。
@@ -37,11 +37,14 @@ layout: default
 ## 小澤みゆき（[@miyayuki777](https://twitter.com/miyayuki777)）
 1988年生まれ。東京都在住。会社員。編著に[『かわいいウルフ』](https://www.akishobo.com/book/detail.html?id=1004)（亜紀書房）。近著に[「ウルフ・チャット」](http://gunzo.kodansha.co.jp/55737/58875.html)[「文芸という海――メジャーとインディペンデントの波間で」](http://gunzo.kodansha.co.jp/55737/58811.html)（「群像」掲載）、[「若さの予感」](https://liondo.thebase.in/items/27827476)（「しししし」掲載）。すきなお酒は「一番搾り」。
 
+# 規約類・事務書類
+[リーガルページ](./regal.md)をごらんください。
+
 # かっこいい引用
 > すべての文化集団は，独自の言語，文字，書記システムを持つ．それゆえ，個々の書記システムをサイバースペースに移転することは，文化的資産の継承という意味で，情報通信技術にとって非常に重要な責務といえよう．[日本語組版処理の要件（日本語版）](https://www.w3.org/TR/jlreq/) 
 
 # お問い合わせ
-[FAQ](./faq.md)はこちらをごらんください。
+[FAQページ](./faq.md)をごらんください。
 
 または、以下編集長あてのメールアドレスまでお問い合わせください。
 
