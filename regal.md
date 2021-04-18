@@ -11,6 +11,8 @@ layout: default
 
 [03_業務委託仕様書（執筆者向けひな型・記入例）](https://drive.google.com/file/d/1BKshtFNewRM5ssBs4eacLcnWLxuYOwWS/view?usp=sharing)
 
-[]()
+[04_「作家の手帖」発注書（テンプレート）](https://drive.google.com/file/d/1_Mz_LrDtiFTLnys7hQL_QQ0ixjgT8O4b/view?usp=sharing)
 
-[]()
+[05_「作家の手帖」参加規約](https://drive.google.com/file/d/1sdMW6EdLK1p4aA9PHed0taeW_L3otoYH/view?usp=sharing)
+
+[06_「作家の手帖」プライバシーポリシー](https://drive.google.com/file/d/1ZODNOIVU4Qmu_jOpr68ruonYXJYiKA05/view?usp=sharing)
