@@ -18,7 +18,7 @@ layout: default
 
 # 参加希望の方へ
 [企画書](https://github.com/Writer-Life-Committee/authors-note/blob/main/README.md)、[参加規約](https://drive.google.com/file/d/1sdMW6EdLK1p4aA9PHed0taeW_L3otoYH/view?usp=sharing)、[プライバシーポリシー](https://drive.google.com/file/d/1ZODNOIVU4Qmu_jOpr68ruonYXJYiKA05/view?usp=sharing)
-をお読みいただいた上で、[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSddK7-cYI9zzO6wMjTwGqHf9dcVSErruk5bslFF4HAC5QGtbA/viewform)からご応募ください。執筆・登壇・制作スタッフのほか、体験談の投稿（匿名可）もあわせて受け付けます。
+をお読みいただいた上で、[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSddK7-cYI9zzO6wMjTwGqHf9dcVSErruk5bslFF4HAC5QGtbA/viewform)からご応募ください。執筆・登壇・制作スタッフ募集のほか、体験談の投稿（匿名可）もあわせて受け付けます。
 
 # 購読希望の方へ
 [STORES](https://authors-note.stores.jp/)では、参加チケットを販売しています。購入すると、最終稿の入手、勉強会の視聴（アーカイヴを含む）、参加者コミュニティ（Discord）への参加ができます（3,000円）。また、8月22日に実施予定の勉強会でショートスピーチできる特別チケットもあります（4,000円）。
