@@ -29,7 +29,7 @@
 ## 概要
 ### 書誌情報
 「作家の手帖　特集：原稿料」（「10日間で作文を上手にする方法」シリーズ1）（編集：笠井康平、小澤みゆき、2021、文筆生活向上委員会）
-Author's note issue : a fee. Kouhei Kasai, Miyuki Ozawa ed. How to write a good in 10 days. 2021. https://github.com/Writer-Life-Committee/authors-note, 
+Author's note issue : a fee. Kouhei Kasai, Miyuki Ozawa ed. How to write a good in 10 days. 2021. https://writer-life-committee.github.io/authors-note/, 
 
 ### 着想
 - 1.オープンテキストリポジトリ
