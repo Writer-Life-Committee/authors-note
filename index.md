@@ -2,8 +2,9 @@
 layout: default
 ---
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-hashtags="作家の手帖" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # 作家の手帖
-「作家の手帖」の特設サイトです。
 
 同人誌「特集：原稿料」という仮称で温めていた企画を、**「作家の手帖」**と題して始めることになりました。編集長は[笠井康平](https://twitter.com/kasaikouhei)・[小澤みゆき](https://twitter.com/miyayuki777)が務めます。
 
