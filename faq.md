@@ -60,11 +60,9 @@ writer.life.committee[at]gmail.com
 ※編集長ふたりは、平日日中は稼業で働いています。お返事には数日かかることもあります。お急ぎの方は、ふたりのTwitterアカウントまでお声がけください。
 
 ### 執筆したい、登壇したい、制作に加わりたいです。
-準備号の協力募集は4月18日から4月30日に行います。執筆・登壇・制作に関わりたい方は、Googleフォームからご応募ください。
+準備号の協力募集は4月18日から4月30日に行います。執筆・登壇・制作に関わりたい方は、[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSddK7-cYI9zzO6wMjTwGqHf9dcVSErruk5bslFF4HAC5QGtbA/viewform)からご応募ください。
 
 執筆・登壇・制作は気が進まないけれど、原稿料について言いたいことがある、だれかに聞いてほしい体験をしたという方は、「体験談を投稿」することもできます。
-
-[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSddK7-cYI9zzO6wMjTwGqHf9dcVSErruk5bslFF4HAC5QGtbA/viewform)
 
 ### 購読チケット（ショートスピーチ参加）とは何ですか。
 勉強会の「ゲストを招いたトーク番組」と「準備号の感想会」では、登壇者・執筆者にお話しいただく合間に、場面転換の時間を設けます。
