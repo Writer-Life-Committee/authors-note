@@ -164,17 +164,13 @@ Author's note issue : a fee. Kouhei Kasai, Miyuki Ozawa ed. How to write a good 
 - 完成稿となる著作物の著作権その他の知的財産権は、著者に帰属します。著者は、業務委託契約書に定める範囲で、自身の著作物の利用権限を編集部に許諾するものとします。
 
 ## 関連リンク
-- README（本ページ／企画書）
-https://github.com/Writer-Life-Committee/authors-note
+- [README（本ページ／企画書）](https://github.com/Writer-Life-Committee/authors-note)
 
-- Github Pages（特設サイト）
-https://writer-life-committee.github.io/authors-note/
+- [Github Pages（特設サイト）](https://writer-life-committee.github.io/authors-note/)
 
-- Google Form（制作スタッフ応募フォーム）
-https://docs.google.com/forms/d/e/1FAIpQLSddK7-cYI9zzO6wMjTwGqHf9dcVSErruk5bslFF4HAC5QGtbA/viewform
+- [Google Form（執筆・登壇・制作スタッフおよび体験談応募フォーム）](https://docs.google.com/forms/d/e/1FAIpQLSddK7-cYI9zzO6wMjTwGqHf9dcVSErruk5bslFF4HAC5QGtbA/viewform)
 
-- STORES（有料チケット販売サイト）
-https://authors-note.stores.jp/
+- [STORES（有料チケット販売サイト）](https://authors-note.stores.jp/)
 
 ## 造本
 ### 本体
