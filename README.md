@@ -28,7 +28,7 @@
 
 ## 概要
 ### 書誌情報
-「作家の手帖　特集：原稿料」（「10日間で作文を上手にする方法」シリーズ1）（編集：笠井康平、小澤みゆき、2021、文筆生活向上委員会）
+「作家の手帖」（「10日間で作文を上手にする方法」シリーズ）（編集：笠井康平、小澤みゆき、2021、文筆生活向上委員会）
 Author's note issue : a fee. Kouhei Kasai, Miyuki Ozawa ed. How to write a good in 10 days. 2021. https://writer-life-committee.github.io/authors-note/, 
 
 ### 着想
@@ -162,6 +162,19 @@ Author's note issue : a fee. Kouhei Kasai, Miyuki Ozawa ed. How to write a good 
 ## ライセンス表示（著作権の帰属）
 - Githubオープンリポジトリに掲載された文書のライセンスは、CC-BY-ND-NC 4.0（表示・非営利・改編禁止 4.0 国際）とします。
 - 完成稿となる著作物の著作権その他の知的財産権は、著者に帰属します。著者は、業務委託契約書に定める範囲で、自身の著作物の利用権限を編集部に許諾するものとします。
+
+## 関連リンク
+- README（本ページ／企画書）
+https://github.com/Writer-Life-Committee/authors-note
+
+- Github Pages（特設サイト）
+https://writer-life-committee.github.io/authors-note/
+
+- Google Form（制作スタッフ応募フォーム）
+https://docs.google.com/forms/d/e/1FAIpQLSddK7-cYI9zzO6wMjTwGqHf9dcVSErruk5bslFF4HAC5QGtbA/viewform
+
+- STORES（有料チケット販売サイト）
+https://authors-note.stores.jp/
 
 ## 造本
 ### 本体
