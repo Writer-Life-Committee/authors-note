@@ -32,10 +32,10 @@ layout: default
 # 編集長プロフィール
 
 ## 笠井康平（[@kasaikouhei](https://twitter.com/kasaikouhei)）
-1988年生まれ。東京都在住。会社員。著書に[『私的なものへの配慮No.3』](https://inunosenakaza.stores.jp/items/5c1da0f4787d841c27223d95)（いぬのせなか座）。近著に[「文化芸術の経済統計枠組みはいかにしてテキスト品質評価指標体系の開発計画に役立つのか」「文化と経済をめぐるブックリスト」](http://www.bungaku.net/wasebun/magazine/wasebun2020win.html)[「現代短歌のテキストマイニング――𠮷田恭大『光と私語』（いぬのせなか座）を題材に」](https://note.com/inunosenakaza/m/m1301c2435627)。すきなものが、すきです。
+1988年生まれ。東京都在住。会社員。著書に[『私的なものへの配慮No.3』](http://inunosenakaza.com/shitekinamono.html)（いぬのせなか座）。近著に[「文化芸術の経済統計枠組みはいかにしてテキスト品質評価指標体系の開発計画に役立つのか」、「文化と経済をめぐるブックリスト」](http://www.bungaku.net/wasebun/magazine/wasebun2020win.html)、[「現代短歌のテキストマイニング――𠮷田恭大『光と私語』（いぬのせなか座）を題材に」](https://note.com/inunosenakaza/m/m1301c2435627)。すきなものが、すきです。
 
 ## 小澤みゆき（[@miyayuki777](https://twitter.com/miyayuki777)）
-1988年生まれ。東京都在住。会社員。編著に[『かわいいウルフ』](https://www.akishobo.com/book/detail.html?id=1004)（亜紀書房）。近著に[「ウルフ・チャット」](http://gunzo.kodansha.co.jp/55737/58875.html)[「文芸という海――メジャーとインディペンデントの波間で」](http://gunzo.kodansha.co.jp/55737/58811.html)（「群像」掲載）、[「若さの予感」](https://liondo.thebase.in/items/27827476)（「しししし」掲載）。すきなお酒は「一番搾り」。
+1988年生まれ。東京都在住。会社員。編著に[『かわいいウルフ』](https://www.akishobo.com/book/detail.html?id=1004)（亜紀書房）。近著に[「ウルフ・チャット」](http://gunzo.kodansha.co.jp/55737/58875.html)、[「文芸という海――メジャーとインディペンデントの波間で」](http://gunzo.kodansha.co.jp/55737/58811.html)、[「若さの予感」](https://liondo.thebase.in/items/27827476)。すきなお酒は「一番搾り」。
 
 # 規約類・事務書類
 [リーガルページ](./regal.md)をごらんください。
