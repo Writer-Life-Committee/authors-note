@@ -168,7 +168,7 @@ Author's note issue : a fee. Kouhei Kasai, Miyuki Ozawa ed. How to write a good 
 
 - [Github Pages（特設サイト）](https://writer-life-committee.github.io/authors-note/)
 
-- [Google Form（執筆・登壇・制作スタッフおよび体験談応募フォーム）](https://docs.google.com/forms/d/e/1FAIpQLSddK7-cYI9zzO6wMjTwGqHf9dcVSErruk5bslFF4HAC5QGtbA/viewform)
+- [Google Form（執筆・登壇・制作スタッフおよび体験談募集フォーム）](https://docs.google.com/forms/d/e/1FAIpQLSddK7-cYI9zzO6wMjTwGqHf9dcVSErruk5bslFF4HAC5QGtbA/viewform)
 
 - [STORES（有料チケット販売サイト）](https://authors-note.stores.jp/)
 
