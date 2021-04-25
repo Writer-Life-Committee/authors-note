@@ -17,8 +17,12 @@ layout: default
 4月18日に情報解禁され、8月1日に準備号の刊行を目指します。準備号には6作ほどの記事を掲載する予定です。その後、8月22日には勉強会を行います（[Googleカレンダーに予定を登録](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2gyYXNwZWxpdnNwZzEwOXNmdTVuZmRjajAgd3JpdGVyLmxpZmUuY29tbWl0dGVlQG0&tmsrc=writer.life.committee%40gmail.com)）。先輩的文献の紹介、ゲスト登壇者（4名予定）をお招きしたトーク、執筆者（4名予定）に自作を語ってもらう読書会を行おうと計画しています。
 
 # 参加希望の方へ
+## 参加方法
 [企画書](https://github.com/Writer-Life-Committee/authors-note/blob/main/README.md)、[参加規約](https://drive.google.com/file/d/1sdMW6EdLK1p4aA9PHed0taeW_L3otoYH/view?usp=sharing)、[プライバシーポリシー](https://drive.google.com/file/d/1ZODNOIVU4Qmu_jOpr68ruonYXJYiKA05/view?usp=sharing)
-をお読みいただいた上で、[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSddK7-cYI9zzO6wMjTwGqHf9dcVSErruk5bslFF4HAC5QGtbA/viewform)からご応募ください。執筆・登壇・制作スタッフ募集のほか、体験談の投稿（匿名可）もあわせて受け付けます。
+をお読みいただいた上で、[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSddK7-cYI9zzO6wMjTwGqHf9dcVSErruk5bslFF4HAC5QGtbA/viewform)からご応募ください。執筆・登壇・制作スタッフ募集のほか、体験談の投稿（匿名可）もあわせて受け付けます（2021/4/18）。
+
+## 共通執筆依頼書
+「作家の手帖」に執筆者として応募したい方、編集部が執筆依頼したい方に伝えるための[「共通執筆依頼書」（Common Request for Writing）](request.md)を公開しました（2021/4/25）。
 
 # 購読希望の方へ
 [STORES](https://authors-note.stores.jp/)では、参加チケットを販売しています。購入すると、最終稿の入手、勉強会の視聴（アーカイヴを含む）、参加者コミュニティ（Discord）への参加ができます（3,000円）。また、8月22日に実施予定の勉強会でショートスピーチできる特別チケットもあります（4,000円）。
