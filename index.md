@@ -14,12 +14,28 @@ layout: default
 ## スケジュール
 これまで、笠井康平はやや長いプレ-テキスト（企画書、リーガル文書など）を執筆し、小澤みゆきはインフラストラクチャ（Github、Discord、STORESなど）を整備してきました。
 
-4月18日に情報解禁され、8月1日に準備号の刊行を目指します。準備号には6作ほどの記事を掲載する予定です。その後、8月22日には勉強会を行います（[Googleカレンダーに予定を登録](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2gyYXNwZWxpdnNwZzEwOXNmdTVuZmRjajAgd3JpdGVyLmxpZmUuY29tbWl0dGVlQG0&tmsrc=writer.life.committee%40gmail.com)）。先輩的文献の紹介、ゲスト登壇者（4名予定）をお招きしたトーク、執筆者（4名予定）に自作を語ってもらう読書会を行おうと計画しています。
+4月18日に情報解禁され、8月1日に準備号の刊行を目指します。準備号には6作ほどの記事を掲載する予定です。その後、8月21日には勉強会を行います（[Googleカレンダーに予定を登録](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2gyYXNwZWxpdnNwZzEwOXNmdTVuZmRjajAgd3JpdGVyLmxpZmUuY29tbWl0dGVlQG0&tmsrc=writer.life.committee%40gmail.com)）。先輩的文献の紹介、ゲスト登壇者（4名予定）をお招きしたトーク、執筆者（4名予定）に自作を語ってもらう読書会を行おうと計画しています。
 
 # 参加希望の方へ
 ## 参加方法
 [企画書](https://github.com/Writer-Life-Committee/authors-note/blob/main/README.md)、[参加規約](https://drive.google.com/file/d/1sdMW6EdLK1p4aA9PHed0taeW_L3otoYH/view?usp=sharing)、[プライバシーポリシー](https://drive.google.com/file/d/1ZODNOIVU4Qmu_jOpr68ruonYXJYiKA05/view?usp=sharing)
-をお読みいただいた上で、[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSddK7-cYI9zzO6wMjTwGqHf9dcVSErruk5bslFF4HAC5QGtbA/viewform)からご応募ください。執筆・登壇・制作スタッフ募集のほか、体験談の投稿（匿名可）もあわせて受け付けます（2021/4/18）。
+をお読みいただいた上で、Googleフォームからご応募ください。執筆・登壇・制作スタッフ募集のほか、体験談の投稿（匿名可）もあわせて受け付けます（2021/4/18）。
+募集を締め切りました。たくさんの方のご応募をありがとうございました（2021/4/30）。
+
+## スタッフ紹介
+準備号のスタッフは以下のとおりです。（2021/5/8）
+- 執筆者（8名）笠井康平、うっかり、ひらりさ、伏見瞬、大滝瓶太、関口竜平、小澤みゆき、poroLogue
+- 編集者（3名）笠井康平、小澤みゆき、Raise（予定）
+- 制作事務（2名）笠井康平、小澤みゆき
+- デザイン（1名）月城美穂
+- 校閲・校正（1名）北出栞
+- 印刷オペレーション（技術サポート）（2名）小澤みゆき、paina
+- 会計（2名）しお、木田愛希
+- 監査役（1名）poroLogue
+- 勉強会の配信実務（1名）seshiapple
+- 勉強会の登壇者（2名～）熱海凌、調整中
+- 勉強会のショートピッチ（定数未定）大募集
+
 
 ## 共通執筆依頼書
 「作家の手帖」に執筆者として応募したい方、編集部が執筆依頼したい方に伝えるための[「共通執筆依頼書」（Common Request for Writing）](request.md)を公開しました（2021/4/25）。
