@@ -1,6 +1,9 @@
 title: 作家の手帖
-description: じぶんの「つづき」を書こう。
-show_downloads: true
+description: >-
+  じぶんの「つづき」を書こう。
+
+baseurl: '/authors-note'
+
 defaults:
   - scope:
       path: ""
@@ -9,5 +12,16 @@ defaults:
         path: /assets/images/main.jpeg
         height: 630
         width: 1200
-google_analytics: G-X2FVX75SD3
+
+locale: 'ja_JP'
+timezone: 'Asia/Tokyo'
+
+show_downloads: false
+
 theme: jekyll-theme-merlot
+
+plugins:
+  - jekyll-sitemap
+
+sass:
+  style: compressed
