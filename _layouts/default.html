@@ -5,13 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=640">
 
+    <!-- デモ用 noindex -->
+    <meta name="robots" content="noindex">
+
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen">
     <link rel="stylesheet" href="{{ '/assets/css/mobile.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)">
     <link rel="stylesheet" href="{{ '/assets/css/non-screen.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)">
-    
-    <script src="{{ '/assets/js/modernizr.js' | relative_url }}"></script>
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/js/headsmart.min.js' | relative_url }}"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" integrity="sha512-3n19xznO0ubPpSwYCRRBgHh63DrV+bdZfHK52b1esvId4GsfwStQNPJFjeQos2h3JwCmZl0/LgLxSKMAI55hgw==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.slim.js" integrity="sha512-HNbo1d4BaJjXh+/e6q4enTyezg5wiXvY3p/9Vzb20NIvkJghZxhzaXeffbdJuuZSxFhJP87ORPadwmU9aN3wSA==" crossorigin="anonymous"></script>    <script src="{{ '/assets/js/headsmart.min.js' | relative_url }}"></script>
     <script>
       $(document).ready(function () {
         $('#main_content').headsmart()
@@ -67,7 +69,9 @@
       </footer>
 
     </div>
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- デモ用 コメントアウト
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-X2FVX75SD3"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -75,5 +79,6 @@
         gtag('js', new Date());
         gtag('config', 'G-X2FVX75SD3');
     </script>
+    -->
   </body>
 </html>
