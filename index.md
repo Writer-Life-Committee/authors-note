@@ -27,7 +27,7 @@ layout: default
 準備号のスタッフは以下のとおりです（2021/5/8）。
 執筆者のプロフィールおよび草案は、各執筆者の個別ページをごらんください。
 
-- 執筆者（8名）[笠井康平](kasai.md)、[うっかり](ukkari.md)、[ひらりさ](hirarisa.md)、[伏見瞬](fushimi.md)、[大滝瓶太](ohtaki,md)、[関口竜平](sekiguchi.md)、[小澤みゆき](ozawa.md)、[poroLogue](polologue.md)
+- 執筆者（8名）[笠井康平](kasai.md)、[うっかり](ukkari.md)、[ひらりさ](hirarisa.md)、[伏見瞬](fushimi.md)、[大滝瓶太](ohtaki,md)、[関口竜平](sekiguchi.md)、[小澤みゆき](ozawa.md)、[poroLogue](porologue.md)
 - 編集者（3名）笠井康平、小澤みゆき、Raise（予定）
 - 制作事務（2名）笠井康平、小澤みゆき
 - デザイン（1名）月城美穂
