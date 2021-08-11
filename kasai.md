@@ -122,5 +122,6 @@ layout: default
 - 笠井康平「文化と経済をめぐるブックリスト」（2020, 早稲田文学会「早稲田文学2020年冬号」所収）
 - サイモン・ケンプ「Digital 2021: Global Overview Report」
 
+※こちらは「初稿」です。「完成稿」は購読者限定です。購読チケットは[STORES](https://authors-note.stores.jp/)から。
 
 # [TOPページ](./index.md)
