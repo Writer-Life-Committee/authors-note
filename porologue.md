@@ -24,6 +24,8 @@ layout: default
 2021年04月23日（金）19:00-20:00@Google Meet
 出席：永井、笠井（聴き手）、小澤（書記）
 
+![alt_text](poroLogue-image.jpg "poroLogueさんアイコン")
+
 <br>
 
 ## Webメディアの原稿料・利益目標の決め方は？
