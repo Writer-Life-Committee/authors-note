@@ -40,6 +40,7 @@ layout: default
 - 勉強会の配信実務（1名）seshiapple
 - 勉強会の登壇者（2名～）熱海凌、竹中万季・野村由芽（株式会社ミーアンドユー）
 - 勉強会のショートピッチ（7名まで）※6名予定
+- GitHub Contributors（4名）ATOHSaaa MATSUMOTO Katsuyoshi　Kato Akiru　sakaiharuka
 
 ## 準備号目次案
 執筆者と、原稿タイトルを紹介します（2021/8/8）。また、8月21日の[勉強会の時間割](event-vol1.md)を公開しました（2021/8/8）。
