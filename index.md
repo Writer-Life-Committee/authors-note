@@ -40,7 +40,10 @@ layout: default
 - 勉強会の配信実務（1名）seshiapple
 - 勉強会の登壇者（2名～）熱海凌、竹中万季・野村由芽（株式会社ミーアンドユー）
 - 勉強会のショートピッチ（7名まで）※6名予定
-- GitHub Contributors（4名）[ATOHSaaa](https://github.com/ATOHSaaa) [MATSUMOTO Katsuyoshi](https://github.com/katsyoshi)　[Kato Akiru](https://github.com/paithiov909)　[sakaiharuka](https://github.com/sakaiharuka)
+- Special Thanks
+  - 資料提供（2名）長瀬海　野崎タラ
+  - 3Dモデリング(1名）清水香央理
+  - GitHub Contributors（4名）[ATOHSaaa](https://github.com/ATOHSaaa) [MATSUMOTO Katsuyoshi](https://github.com/katsyoshi)　[Kato Akiru](https://github.com/paithiov909)　[sakaiharuka](https://github.com/sakaiharuka)
 
 ## 準備号目次案
 執筆者と、原稿タイトルを紹介します（2021/8/8）。また、8月21日の[勉強会の時間割](event-vol1.md)を公開しました（2021/8/8）。
