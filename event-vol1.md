@@ -3,6 +3,9 @@ layout: default
 ---
 
 # 勉強会の時間割
+
+![勉強会](./assets/images/event-vol1.jpg)
+
 ## 【タイトル】
 夏休み特番！真夏のOne Last Summer 8月祭 in 2021
 ～作家と原稿料をとことん語るぞスペシャル!!～
@@ -56,6 +59,8 @@ layout: default
 * クロージング：5分
 
 ※著者の出演順は後日決定
+
+## 【クレジット】
 
 # [TOPページ](./index.md)
 
