@@ -71,7 +71,19 @@ layout: default
 * クロージング：5分
   * トーク：笠井・小澤  
 
-## 【クレジット】
+## 【著作権表示 / Copyright Notice】
+
+本番組では、下記のサイトで公開されている著作物を利用する予定です。
+
+We will use copyrighted materials published on the sites shown below on this program.
+
+* 音楽
+  * [FesliyanStudios](https://www.fesliyanstudios.com/) : Licensed for commercial use
+  * [DOVA-SYNDROME](https://dova-s.jp/)
+  * [騒音のない世界](https://noiselessworld.net/)
+* 効果音
+  * [効果音ラボ](https://soundeffect-lab.info/)
+  * [OtoLogic](https://otologic.jp/) : CC BY 4.0
 
 # [TOPページ](./index.md)
 
