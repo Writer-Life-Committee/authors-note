@@ -9,26 +9,14 @@ layout: default
 同人誌「特集：原稿料」という仮称で温めていた企画を、**「作家の手帖」**と題して始めることになりました。編集長は[笠井康平](https://twitter.com/kasaikouhei)・[小澤みゆき](https://twitter.com/miyayuki777)が務めます。
 
 ## 特徴
-**広い意味での「原稿料」を主題に、出版活動の流れ自体を目次として、ウェブに掲載される同人誌です。**執筆者・制作スタッフを公募し、先に契約を結んでから、最終稿以外のテキストを[GitHub](https://github.com/Writer-Life-Committee/authors-note)で公表することで、**どの原稿がどのように執筆・編集・校正されたのかをみんなで共有できるようにする試みです。**
+**広い意味での「原稿料」を主題に、出版活動の流れ自体を目次として、ウェブに掲載される同人誌です。** 執筆者・制作スタッフを公募し、先に契約を結んでから、最終稿以外のテキストを[GitHub](https://github.com/Writer-Life-Committee/authors-note)で公表することで、**どの原稿がどのように執筆・編集・校正されたのかをみんなで共有できるようにする試みです。**
 
-本サイトには、「作家の手帖」の掲載記事（※最終稿をのぞく）が掲載されていきます。GitHub Pagesという仕組みを用いて、Githubに掲載した原稿がそのまま記事になります。GitHubとは、ざっくりいうと、広い意味で文書管理を行ったり、共同作業を行うためのサービスです（詳しいサービス内容や仕組みは、[公式ページ](https://github.co.jp/)をごらんください）。
+本サイトには「作家の手帖」の制作過程が掲載されます。GitHub Pagesという仕組みを用いて、Githubに掲載した原稿がそのまま記事になります（完成稿は購読者限定です）。GitHubとは、ざっくりいうと、文書管理や共同作業を行うサービスです（詳しいサービス内容や仕組みは、[公式ページ](https://github.co.jp/)をごらんください）。
 
-## スケジュール
-これまで、笠井康平はやや長いプレ-テキスト（企画書、リーガル文書など）を執筆し、小澤みゆきはインフラストラクチャ（Github、Discord、STORESなど）を整備してきました。
-
-4月18日に情報解禁され、8月1日に準備号の刊行を目指します。準備号には6作ほどの記事を掲載する予定です。その後、8月21日には勉強会を行います（[Googleカレンダーに予定を登録](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2gyYXNwZWxpdnNwZzEwOXNmdTVuZmRjajAgd3JpdGVyLmxpZmUuY29tbWl0dGVlQG0&tmsrc=writer.life.committee%40gmail.com)）。先輩的文献の紹介、ゲスト登壇者（4名予定）をお招きしたトーク、執筆者（4名予定）に自作を語ってもらう読書会を行おうと計画しています。
-
-# 参加希望の方へ
-## 参加方法
-[企画書](https://github.com/Writer-Life-Committee/authors-note/blob/main/README.md)、[参加規約](https://drive.google.com/file/d/1sdMW6EdLK1p4aA9PHed0taeW_L3otoYH/view?usp=sharing)、[プライバシーポリシー](https://drive.google.com/file/d/1ZODNOIVU4Qmu_jOpr68ruonYXJYiKA05/view?usp=sharing)
-をお読みいただいた上で、Googleフォームからご応募ください。執筆・登壇・制作スタッフ募集のほか、体験談の投稿（匿名可）もあわせて受け付けます（2021/4/18）。
-
-募集を締め切りました。たくさんの方のご応募をありがとうございました（2021/4/30）。
+## これまでのあらすじ
+4月18日に情報解禁され、8月18日に準備1号が完成し、8月21日には刊行記念のオンライン勉強会を行いました。9月末まで「清算」「休養」期間に入り、10月から次の企画がまた始まります。全20の目次に記事が揃うまで、活動を続けます。
 
 ## スタッフ紹介
-準備号のスタッフおよび勉強会の出演者は以下のとおりです（2021/8/8）。
-執筆者のプロフィールおよび草案・草稿・初稿は、各執筆者の個別ページをごらんください。
-
 - 執筆者（8名）[笠井康平](kasai.md)、[うっかり](ukkari.md)、[ひらりさ](hirarisa.md)、[伏見瞬](fushimi.md)、[大滝瓶太](ohtaki.md)、[関口竜平](sekiguchi.md)、[小澤みゆき](ozawa.md)、[poroLogue](porologue.md)
 - 編集者（3名）笠井康平、小澤みゆき、Raise
 - 制作事務（2名）笠井康平、小澤みゆき、皐月うしこ
@@ -45,9 +33,7 @@ layout: default
   - 3Dモデリング(1名）清水香央理
   - GitHub Contributors（4名）[ATOHSaaa](https://github.com/ATOHSaaa) [MATSUMOTO Katsuyoshi](https://github.com/katsyoshi)　[Kato Akiru](https://github.com/paithiov909)　[sakaiharuka](https://github.com/sakaiharuka)
 
-## 準備号目次案
-執筆者と、原稿タイトルを紹介します（2021/8/8）。また、8月21日の[勉強会の時間割](event-vol1.md)を公開しました（2021/8/8）。
-
+## 準備1号の目次
 【1.企画趣旨】
 - [笠井康平「原稿料400年の歴史――どうして作家は昔からいまいち儲からないのか？」](kasai.md)
 
@@ -72,16 +58,30 @@ layout: default
 【18.財務・会計】
 - [poroLogue「原稿料はどう決める？――Webメディアの副編集長が作り上げた「事業と財務」の対話を促す経理の仕組み」](porologue.md)
 
+[勉強会の時間割](event-vol1.md)も公開しました（2021/8/8）。
+
+## もっと知りたい方へ
+[README（「作家の手帖（特集：原稿料）」企画書ワーキングドラフト）](https://github.com/Writer-Life-Committee/authors-note/blob/main/README.md)をごらんください。
+
+# 参加方法
+
+## 購読希望の方へ
+[STORES](https://authors-note.stores.jp/)で参加チケットを販売しています。購入すると、次の特典を受け取れます。
+- 完成稿（PDF/epub）の入手
+- 制作過程（草稿/編集稿/初稿/校正稿）の赤入れやコメントの閲覧
+- オンライン勉強会のアーカイヴ動画視聴
+- 参加者コミュニティ（Discord）への参加
+- 招待状（紙）（残部数限り）
+
+このささやかな取り組みを支援していただける方は、ぜひ参加チケットをお買い求めください。
+
+## 執筆者・制作スタッフの応募
+[企画書](https://github.com/Writer-Life-Committee/authors-note/blob/main/README.md)、[参加規約](https://drive.google.com/file/d/1sdMW6EdLK1p4aA9PHed0taeW_L3otoYH/view?usp=sharing)、[プライバシーポリシー](https://drive.google.com/file/d/1ZODNOIVU4Qmu_jOpr68ruonYXJYiKA05/view?usp=sharing)
+をお読みいただいた上で、Googleフォームからご応募ください。執筆・登壇・制作スタッフ募集のほか、体験談の投稿（匿名可）もあわせて受け付けます（2021/4/18）。
+10月以降に次の企画をご案内します。ご関心のある方は、お気軽にご応募ください（2021/8/25）。
+
 ## 共通執筆依頼書
 「作家の手帖」に執筆者として応募したい方、編集部が執筆依頼したい方に伝えるための[「共通執筆依頼書」（Common Request for Writing）](request.md)を公開しました（2021/4/25）。
-
-# 購読希望の方へ
-[STORES](https://authors-note.stores.jp/)では、参加チケットを販売しています。購入すると、最終稿の入手、勉強会の視聴（アーカイヴを含む）、参加者コミュニティ（Discord）への参加ができます（3,000円）。また、8月21日に実施予定の勉強会でショートスピーチできる特別チケットもあります（4,000円）。
-
-まだ発足したばかりの同人誌で、完成の保証はありません（編集長ふたりは全力を尽くしますが、何が起きるか分からない世の中です）。それでも、このささやかな取り組みを支援していただける方は、ぜひ参加チケットをお買い求めください。
-
-# もっと知りたい方へ
-[README（「作家の手帖（特集：原稿料）」企画書ワーキングドラフト）](https://github.com/Writer-Life-Committee/authors-note/blob/main/README.md)をごらんください。
 
 # 編集長プロフィール
 
