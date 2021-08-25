@@ -6,7 +6,7 @@ layout: default
 
 # 作家の手帖
 
-同人誌「特集：原稿料」という仮称で温めていた企画を、**「作家の手帖」**と題して始めることになりました。編集長は[笠井康平](https://twitter.com/kasaikouhei)・[小澤みゆき](https://twitter.com/miyayuki777)が務めます。
+同人誌「特集：原稿料」という仮称で温めていた企画を、**「作家の手帖」** と題して始めることになりました。編集長は[笠井康平](https://twitter.com/kasaikouhei)・[小澤みゆき](https://twitter.com/miyayuki777)が務めます。
 
 ## 特徴
 **広い意味での「原稿料」を主題に、出版活動の流れ自体を目次として、ウェブに掲載される同人誌です。** 執筆者・制作スタッフを公募し、先に契約を結んでから、最終稿以外のテキストを[GitHub](https://github.com/Writer-Life-Committee/authors-note)で公表することで、**どの原稿がどのように執筆・編集・校正されたのかをみんなで共有できるようにする試みです。**
