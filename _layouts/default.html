@@ -86,7 +86,10 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'UA-192786010-2');
+        // gtag('config', 'UA-192786010-2');
+        ga('create', 'UA-192786010-2', 'auto', {'allowLinker': true}); 
+        ga('require', 'linker');
+        ga('linker:autoLink', ['authors-note.stores.jp', genkoryo.com']);
     </script>
     
   </body>
