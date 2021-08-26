@@ -103,3 +103,5 @@ layout: default
 文筆生活向上委員会（担当：笠井・小澤）
 
 writer.life.committee[at]gmail.com
+
+<script data-ad-client="ca-pub-3736001212925241" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
