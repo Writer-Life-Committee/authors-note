@@ -73,7 +73,11 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-X2FVX75SD3');
+        gtag('config', 'G-X2FVX75SD3', {
+            'linker': {
+                'domains': ['authors-note.stores.jp','genkoryo.com'] // 
+            }
+        });
     </script>
     
     <!-- Global site tag (gtag.js) - Google Analytics -->
