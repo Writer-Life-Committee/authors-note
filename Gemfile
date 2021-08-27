@@ -12,3 +12,8 @@ gem "webrick"
 group :jekyll_plugins do
    gem "jekyll-sitemap"
 end
+
+# Gemfile
+group :jekyll_plugins do
+  gem 'github-pages'
+end
