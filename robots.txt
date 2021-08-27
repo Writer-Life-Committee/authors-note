@@ -1,0 +1,4 @@
+User-Agent:*
+Disallow:
+
+Sitemap:https://www.genkoryo.com/sitemap.xml
