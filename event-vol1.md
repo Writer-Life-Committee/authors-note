@@ -14,6 +14,11 @@ layout: default
 ## 【企画内容】
 全3時間半の長丁場で、先行文献の紹介、昨今の諸問題の討議、準備号の感想戦を一挙に行うオンライン配信番組。参加チケット購入[STORES](https://authors-note.stores.jp/items/6078e843d5e9c9671858a8ec)から（8/20 23:59まで受付）。
 
+※勉強会は終了しました。購読チケットを購入すると、動画アーカイヴをごらんいただけます。
+
+<div class="button_wrapper">
+	<a href="https://authors-note.stores.jp/" class="button">チケットを購入する</a>
+</div>
 
 ## 【プログラム】
 ### 第1部：先輩的文献の読書会（20:00-20:30/30分）

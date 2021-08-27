@@ -115,4 +115,8 @@ PRのための「周辺」原稿
 
 [^11]: 書類共有には[Google Docs](https://www.google.com/intl/ja_jp/docs/about/)をおすすめする。Wordやテキストファイルを複数人でやりとりするとバージョン管理ができないし、情報が漏れる恐れもある。出版は立場の異なる複数の人々が関わる共同プロジェクトなので、情報へのアクセスのしやすさや透明性はとても大切だと思う。
 
+<div class="button_wrapper">
+	<a href="https://authors-note.stores.jp/" class="button">チケットを購入する</a>
+</div>
+
 # [TOPページ](./index.md)

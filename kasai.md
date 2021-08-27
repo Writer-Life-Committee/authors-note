@@ -124,4 +124,8 @@ layout: default
 
 ※こちらは「初稿」です。「完成稿」は購読者限定です。購読チケットは[STORES](https://authors-note.stores.jp/)から。
 
+<div class="button_wrapper">
+	<a href="https://authors-note.stores.jp/" class="button">チケットを購入する</a>
+</div>
+
 # [TOPページ](./index.md)
