@@ -75,7 +75,9 @@ layout: default
 
 このささやかな取り組みを支援していただける方は、ぜひ参加チケットをお買い求めください。
 
-<a href="https://authors-note.stores.jp/" class="btn">チケットを購入する</a>
+<div class="button_wrapper">
+	<a href="https://authors-note.stores.jp/" class="button">チケットを購入する</a>
+</div>
 
 ## 執筆者・制作スタッフの応募
 [企画書](https://github.com/Writer-Life-Committee/authors-note/blob/main/README.md)、[参加規約](https://drive.google.com/file/d/1sdMW6EdLK1p4aA9PHed0taeW_L3otoYH/view?usp=sharing)、[プライバシーポリシー](https://drive.google.com/file/d/1ZODNOIVU4Qmu_jOpr68ruonYXJYiKA05/view?usp=sharing)

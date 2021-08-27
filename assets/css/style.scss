@@ -3,7 +3,10 @@
 
 @import 'jekyll-theme-merlot';
 
-.btn {
+.button_wrapper{
+   text-align:center;
+}
+.button {
   border-radius: 5px;
   background-color: #a3caeb;
   padding: 10px;
