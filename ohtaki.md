@@ -26,7 +26,7 @@ WEBライティングの熱力学的な死──そのテクストの「意思�
 
 数理生物学で用いられる「適応度地形」は、ある生物個体が任意のパラメータで定義された環境にどれだけ適すかを示したグラフである（Figure1）。高いほど快適な環境を示し、従って生物個体は手当たり次第に近くの山の頂上を目指して登ろうとする。たとえば、暗闇で生きる生物は視覚を退化させ聴覚を発達させる。この運動が観念上の「進化」と呼ばれるものであり、生物個体は適応度を最大にするようにして身体機能を変化させていく。
 
-![alt_text](ohtaki-images/image8.png "image_tooltip")
+![alt_text](./assets/images/ohtaki/image8.png "image_tooltip")
 
 **Figure 1 適応度地形（イメージ）** \
 （引用：[https://ja.wikipedia.org/wiki/適応度](https://ja.wikipedia.org/wiki/適応度)）
@@ -101,7 +101,7 @@ Table 1は、WEBライターのおおまかな原稿料相場の例だ。実績�
 
 過去にぼくはTwitterでこんなアンケートをとってみたのだが（Figure 6）、どうやらぼくのまわりでは月収20万円程度が「食える」のボーダーラインらしい。0.2円とは言わずとも「1円ライター」と呼ばれる文字単価1円でさえ、毎月20万文字を書いてやっと食える。これはちょっとした長編小説１冊分の長さだ。
 
-![alt_text](ohtaki-images/image2.jpg "image_tooltip")
+![alt_text](./assets/images/ohtaki/image2.jpg "image_tooltip")
 
 **Figure 2「食える」月収とは？**
 [https://twitter.com/bohtaki/status/1367990588608368642?s=21](https://twitter.com/bohtaki/status/1367990588608368642?s=21)
@@ -115,7 +115,7 @@ WEBライターになるのはかんたんだけど、文字単価が低けれ�
 
 Figure 3 を見て欲しい。ニューヨーク・タイムズの7000件の記事をもとに、ある感情をもたらす記事が、同紙の「いちばんEメールされた記事」リストにどれだけ登場するかを調べたものだ。拡散しやすい記事はポジティブ／ネガティブな感情を強く喚起する性質を持ち、特に「怒り」がもっとも高い。
 
-![alt_text](ohtaki-images/image11.png "image_tooltip")
+![alt_text](./assets/images/ohtaki/image11.png "image_tooltip")
 
 **Figure 3 記事の拡散と感情**　元データはBerger, J., and Milkman, K. L., “What Makes Online Content Viral,”, Journal of American Marketing Research, 2011 グラフはオリバー・ラケット、マイケル・ケーシー著『ソーシャルメディアの生態系』掲載図を筆者が再現
 
@@ -212,31 +212,31 @@ Table 2 にまとめたのはWEBテクストの評価指標と戦略だ。評価
 
 Figure 4 は階層分類法を用いてテクストの総合評価を構造化したものだ。複数の評価指標がWEBライティングの総合評価を構成し、評価指標に作用する戦略が下層に配置される。
 
-![alt_text](ohtaki-images/image6.png "image_tooltip")
+![alt_text](./assets/images/ohtaki/image6.png "image_tooltip")
 
 **Figure 4 階層分析法に基づくWEBライティングの評価モデル**
 
 このとき、戦略Cjが評価指標Fiに与える影響をfij、各評価指標の重要度（重み）をwiとすると、戦略Cjにより制作されたWEBテクストの評価値Sjは以下の式で定義される。
 
-![alt_text](ohtaki-images/image12.png "image_tooltip")
+![alt_text](./assets/images/ohtaki/image12.png "image_tooltip")
 (1)
 
-![alt_text](ohtaki-images/image1.png "image_tooltip")
+![alt_text](./assets/images/ohtaki/image1.png "image_tooltip")
 (2)
 
 評価値Sjは冒頭でのべた数理生物学における「適応度」に該当する。では、手持ちの戦略Cjがわかっているとき、重みwiはどのように求めることができるのか？
 
 すべての戦略を考慮した総合評価Sは以下のように表現できる。
 
-![alt_text](ohtaki-images/image3.png "image_tooltip")
+![alt_text](./assets/images/ohtaki/image3.png "image_tooltip")
 (3)
 
 ここで左からかかるN×nの行列をAと置くと、意思決定に関わる重みwiは以下の固有方程式の問題に帰着する。
 
-![alt_text](ohtaki-images/image9.png "image_tooltip")
+![alt_text](./assets/images/ohtaki/image9.png "image_tooltip")
 (4)
 
-![alt_text](ohtaki-images/image5.png "image_tooltip")
+![alt_text](./assets/images/ohtaki/image5.png "image_tooltip")
 (5)
 
 この固有方程式は正方行列ではないため、めちゃくちゃめんどくさい。意味のあるかたちで解くにはいろいろと工夫が必要になる。それはまた別の機会にしたい。
@@ -245,7 +245,7 @@ Figure 4 は階層分類法を用いてテクストの総合評価を構造化�
 
 理屈の上ではこの固有方程式を解くことで、WEBライティングの表現が決定される構造を特定できるとわかった。最後に、Figure 5で問題の全体像を確認したい。
 
-![alt_text](ohtaki-images/image14.png "image_tooltip")
+![alt_text](./assets/images/ohtaki/image14.png "image_tooltip")
 
 
 **Figure 5 プロトタイピング−アーキタイピングの反復（郡司ぺギオ幸夫『生命、微動だにせず　人工知能を凌駕する生命』、デジャヴ・逆ベイズ推論の議論より筆者が着想）**

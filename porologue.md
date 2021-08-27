@@ -24,7 +24,7 @@ layout: default
 2021年04月23日（金）19:00-20:00@Google Meet
 出席：永井、笠井（聴き手）、小澤（書記）
 
-![alt_text](poroLogue-image.jpg "poroLogueさんアイコン")
+![alt_text](./assets/images/poroLogue-image.jpg "poroLogueさんアイコン")
 
 <br>
 
