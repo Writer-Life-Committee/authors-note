@@ -1,4 +1,4 @@
 User-Agent:*
 Disallow:
 
-Sitemap:https://www.genkoryo.com/sitemap.xml
+Sitemap:https://writer-life-committee.github.io/authors-note/sitemap.xml
