@@ -76,7 +76,7 @@ layout: default
 このささやかな取り組みを支援していただける方は、ぜひ参加チケットをお買い求めください。
 
 <div class="button_wrapper">
-	<a href="https://authors-note.stores.jp/" class="button">チケットを購入する</a>
+	<a href="https://authors-note.stores.jp/items/6078e843d5e9c9671858a8ec/" class="button">チケットを購入する</a>
 </div>
 
 ## 執筆者・制作スタッフの応募
