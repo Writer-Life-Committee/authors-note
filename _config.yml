@@ -2,6 +2,8 @@ title: 作家の手帖
 description: >-
   じぶんの「つづき」を書こう。
 
+repository: 'Writer-Life-Committee/authors-note'
+
 baseurl: '/authors-note'
 
 defaults:
