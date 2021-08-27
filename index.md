@@ -75,6 +75,8 @@ layout: default
 
 このささやかな取り組みを支援していただける方は、ぜひ参加チケットをお買い求めください。
 
+<a href="https://authors-note.stores.jp/" class="btn">チケット購入する</a>
+
 ## 執筆者・制作スタッフの応募
 [企画書](https://github.com/Writer-Life-Committee/authors-note/blob/main/README.md)、[参加規約](https://drive.google.com/file/d/1sdMW6EdLK1p4aA9PHed0taeW_L3otoYH/view?usp=sharing)、[プライバシーポリシー](https://drive.google.com/file/d/1ZODNOIVU4Qmu_jOpr68ruonYXJYiKA05/view?usp=sharing)
 をお読みいただいた上で、Googleフォームからご応募ください。執筆・登壇・制作スタッフ募集のほか、体験談の投稿（匿名可）もあわせて受け付けます（2021/4/18）。
