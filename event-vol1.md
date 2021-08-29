@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 勉強会の時間割
+# 第1回勉強会の時間割
 
 ![勉強会](./assets/images/event-vol1.jpg)
 
