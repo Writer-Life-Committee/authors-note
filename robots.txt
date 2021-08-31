@@ -1,0 +1,4 @@
+User-Agent:*
+Disallow:
+
+Sitemap:https://writer-life-committee.github.io/authors-note/sitemap.xml
