@@ -119,9 +119,9 @@ layout: default
 > すべての文化集団は，独自の言語，文字，書記システムを持つ．それゆえ，個々の書記システムをサイバースペースに移転することは，文化的資産の継承という意味で，情報通信技術にとって非常に重要な責務といえよう．[日本語組版処理の要件（日本語版）](https://www.w3.org/TR/jlreq/) 
 
 # お知らせ
-本誌編集長　小澤・笠井による記事が、　[「Ｓ－Ｆマガジン２０２２年２月号　特集・未来の文芸」](https://www.hayakawa-online.co.jp/shopdetail/000000015011/date_2021/page1/order/)に掲載されます。参考文献リストを以下のページにて公開しています。
+本誌編集長　小澤・笠井による記事が、　[「S-Fマガジン2022年2月号　特集・未来の文芸」](https://www.hayakawa-online.co.jp/shopdetail/000000015011/date_2021/page1/order/)に掲載されます。参考文献リストを以下のページにて公開しています。
 
-[SFマガジン寄稿記事](https://writer-life-committee.github.io/authors-note/sfmagazine-reference)
+[S-Fマガジン掲載記事の参考文献](https://writer-life-committee.github.io/authors-note/sfmagazine-reference)
 
 # お問い合わせ
 [FAQページ](./faq.md)をごらんいただき、以下までお問い合わせください。
