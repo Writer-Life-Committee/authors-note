@@ -5,7 +5,7 @@ layout: default
 
 本ページは、[「Ｓ－Ｆマガジン２０２２年２月号」（早川書房）](https://www.hayakawa-online.co.jp/shopdetail/000000015011/date_2021/page1/order/)に掲載された記事「往復書簡：じぶんの「つづき」を書こう。（１）」の参考文献リストです。また、本文中の図表を以下のウェブサイトでもごらんいただけます。
 
-[【SFマガジン】「往復書簡：じぶんの「つづき」を書こう。（１）」掲載図表ウェブ版](https://datastudio.google.com/reporting/2416449b-56c5-4c04-9098-665f382c2315)
+[【SFマガジン】「往復書簡：じぶんの「つづき」を書こう。（１）」掲載図ウェブ版](https://datastudio.google.com/reporting/2416449b-56c5-4c04-9098-665f382c2315)
 
 ## 参考文献
 - [mariko ASMR「ASMR 測定ロールプレイ／学者が、あなた(未確認生命体)を測る measuring📝📐」](https://www.youtube.com/watch?v=wDR__JfvJwg)（2021）
