@@ -7,8 +7,9 @@ layout: default
 # 作家の手帖
 
 ## 大切なお知らせ
-2023年11月に「作家の手帖」ウェブサイトはリニューアルしました。
-今後は[新サイト（https://genkoryo.com/）](https://genkoryo.com/)をご覧ください。
+* 2023年11月に「作家の手帖」ウェブサイトはリニューアルしました。*
+今後は[新サイト（https://genkoryo.com/）](https://genkoryo.com/)をご覧ください。*
+***
 
 同人誌「特集：原稿料」という仮称で温めていた企画を、**「作家の手帖」** と題して始めることになりました。編集長は[笠井康平](https://twitter.com/kasaikouhei)・[小澤みゆき](https://twitter.com/miyayuki777)が務めます。
 
