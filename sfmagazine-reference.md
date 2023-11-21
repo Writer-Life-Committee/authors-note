@@ -40,10 +40,4 @@ layout: default
 
 - [文筆生活向上委員会「作家の手帖」](https://genkoryo.com/)（2021）
 
-<br>
-<div class="button_wrapper">
-	<a href="https://authors-note.stores.jp/items/6078e843d5e9c9671858a8ec/" class="button">チケットを購入する</a>
-</div>
-<br>
-
 # [TOPページ](./index.md)
